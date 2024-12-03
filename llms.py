@@ -131,7 +131,6 @@ class OrpheoOllama(Ollama):
 
     Args:
         model (str): The name of the model to use.
-        base_url (str, optional): The base URL for the API. Defaults to "http://localhost:11434".
         temperature (float, optional): The temperature setting for the model. Defaults to 0.75.
         context_window (int, optional): The context window size. Defaults to DEFAULT_CONTEXT_WINDOW.
         request_timeout (float, optional): The request timeout in seconds. Defaults to DEFAULT_REQUEST_TIMEOUT.
