@@ -1,0 +1,44 @@
+{
+    "kind": "youtube#channel",
+    "etag": "PnFnzsZucwcztkb7FLofDknR2Ag",
+    "id": "UCwEf1HJtu7ldNyG35Yb-9tw",
+    "snippet": {
+        "title": "Mark Kahoush",
+        "description": "",
+        "customUrl": "@markkahoush8899",
+        "publishedAt": "2014-04-07T10:00:05Z",
+        "thumbnails": {
+            "default": {
+                "url": "https://yt3.ggpht.com/ytc/AIdro_mZYEEG1D6RSHuPSp1Vhgh0Q_G6Y2ix5Cytdiczzcc=s88-c-k-c0x00ffffff-no-rj",
+                "width": 88,
+                "height": 88
+            },
+            "medium": {
+                "url": "https://yt3.ggpht.com/ytc/AIdro_mZYEEG1D6RSHuPSp1Vhgh0Q_G6Y2ix5Cytdiczzcc=s240-c-k-c0x00ffffff-no-rj",
+                "width": 240,
+                "height": 240
+            },
+            "high": {
+                "url": "https://yt3.ggpht.com/ytc/AIdro_mZYEEG1D6RSHuPSp1Vhgh0Q_G6Y2ix5Cytdiczzcc=s800-c-k-c0x00ffffff-no-rj",
+                "width": 800,
+                "height": 800
+            }
+        },
+        "localized": {
+            "title": "Mark Kahoush",
+            "description": ""
+        }
+    },
+    "contentDetails": {
+        "relatedPlaylists": {
+            "likes": "LL",
+            "uploads": "UUwEf1HJtu7ldNyG35Yb-9tw"
+        }
+    },
+    "statistics": {
+        "viewCount": "0",
+        "subscriberCount": "0",
+        "hiddenSubscriberCount": false,
+        "videoCount": "0"
+    }
+}
