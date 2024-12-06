@@ -178,8 +178,12 @@ wrapt==1.16.0
 wsproto==1.2.0
 yarl==1.17.1
 zipp==3.21.0
+chainlit
 
 
 google-api-python-client==2.118.0
 google-auth-oauthlib==1.2.0
 pytube==15.0.0
+instaloader==4.10.3
+facebook-sdk==3.1.0
+python-tiktok-api==0.1.7
